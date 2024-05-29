@@ -3,7 +3,7 @@ Bank Database Management System - The design of bank database has critical task 
 
 Raw Data Files : This folder had all the raw data files.
 
-# Steps Done in the Project 
+#### Steps Done in the Project 
 
 Azure Data Factory : Extraction of data in data factory and creating data pipelines.
 Azure Data Lake Gen2: Storing/Loading raw data in data lake gen2.
